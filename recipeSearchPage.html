@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FoodMood Recipes</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <form>
+        <input type="text" id="search-box" placeholder="Search for recipes...">
+        <select id="filter">
+            <option value="">All recipes</option>
+        </select>
+        <button type="button" onclick="searchRecipes()">Search</button>
+    </form>
+    <div id="recipe-cards-container"></div>
+    <div class="favorites">
+        <h2>Favorites</h2>
+        <ul id="favorite-list"></ul>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="/script.js"></script>
+</html>
+

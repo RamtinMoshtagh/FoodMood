@@ -1,0 +1,32 @@
+#search-box {
+border: 2px solid #ccc;
+border-radius: 4px;
+font-size: 16px;
+padding: 12px 20px;
+margin-bottom: 12px;
+width: 60%;
+}
+#filter {
+border: 2px solid #ccc;
+border-radius: 4px;
+font-size: 16px;
+padding: 10px 20px;
+margin-left: 12px;
+}
+.card {
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+max-width: 300px;
+margin: auto;
+text-align: center;
+font-family: arial;
+}
+.card img {
+max-width: 100%;
+height: auto;
+}
+.card-container {
+padding: 2px 16px;
+}
+#recipe-cards-container {
+display: none;
+}
