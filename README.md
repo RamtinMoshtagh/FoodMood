@@ -1,4 +1,4 @@
-# Newsly
+# FoodMood
 
 <img width="1159" alt="Screenshot 2023-05-26 at 20 15 53" src="https://github.com/RamtinMoshtagh/FoodMood/assets/95631899/7ba7d5c3-fc49-4e06-9b91-71ce1073f37a">
 
